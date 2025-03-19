@@ -8,3 +8,9 @@ Wed, Mar 19, 2025  9:11:21 AM:
  tests:  1|4
 total_score: 10/70
 ac28006
+Wed, Mar 19, 2025  9:32:00 AM: 
+ exercises.c | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+ tests:  2|3
+total_score: 20/70
+10d1787
