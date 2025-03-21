@@ -24,3 +24,9 @@ ju., 20 de mar. de 2025 20:56:21:
  tests:  2|3
 total_score: 20/70
 e2b54f1
+ju., 20 de mar. de 2025 21:06:31: 
+ exercises.c | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+ tests:  3|2
+total_score: 40/70
+0dbada7
