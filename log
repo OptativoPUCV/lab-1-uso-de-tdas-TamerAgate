@@ -67,3 +67,9 @@ do., 23 de mar. de 2025 16:06:47:
  1 file changed, 17 insertions(+), 2 deletions(-)
  tests:  0|0
 420359a
+do., 23 de mar. de 2025 16:08:14: 
+ exercises.c | 18 ------------------
+ 1 file changed, 18 deletions(-)
+ tests:  4|1
+total_score: 50/70
+2f24c5f
